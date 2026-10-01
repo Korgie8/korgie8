@@ -8,7 +8,6 @@ public class Person
 {
     public string Nickname = "Korgie";
     public int Age = 17;
-	public (string, string) Pronouns = ("He", "Him");
     public string HomeCountry = "Czech Republic";
     private string CurrentlyStudying = "High School";
     public string OS = "Linux (Fedora)";
