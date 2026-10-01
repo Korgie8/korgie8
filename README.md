@@ -37,6 +37,9 @@ Person me = new();
 me.ExecuteIntroduction();
 ````
 
+<details>
+<summary>More stuff about me</summary>
+
 ## What I do
 
 I explore all sorts of technology, from hardware to software engineering. My main focus is heavily backend-oriented — ranging from web APIs and network security to complex algorithms. I genuinely enjoy learning and experimenting across different IT fields. Outside of tech, you'll usually find me reading books or studying new languages.
@@ -78,3 +81,5 @@ I explore all sorts of technology, from hardware to software engineering. My mai
 <p align="center">
   <sup><small><em>As a reward for scrolling this deep, here is a quote: "Life is like a trash can: It might be full of shit, but when you hit the bottom, you discover all the hidden treasures."</em></small></sup>
 </p>
+
+</details>
