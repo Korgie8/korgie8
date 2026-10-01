@@ -77,5 +77,5 @@ I explore all sorts of technology, from hardware to software engineering. My mai
 - **Wanna chat?** Discord: `korgie8`
 
 <p align="center">
-  <sup><small><em>As a reward for scrolling this deep, here is a quote: Life is like a trash can. It might be full of shit, but when you hit the bottom, you discover all the hidden treasures.</em></small></sup>
+  <sup><small><em>As a reward for scrolling this deep, here is a quote: "Life is like a trash can: It might be full of shit, but when you hit the bottom, you discover all the hidden treasures."</em></small></sup>
 </p>
