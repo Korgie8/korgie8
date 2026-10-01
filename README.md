@@ -27,14 +27,14 @@ public class Person
         "Logical thinking and learning new exciting things" 
     ];
 
-    public void ExecuteIntroduction()
+    public void ExecuteGreeting()
     {
         Console.WriteLine("I rejoice to welcome thee to my humble abode, and hope thou wilt enjoy thy stay.");
     }
 }
 
 Person me = new();
-me.ExecuteIntroduction();
+me.ExecuteGreeting();
 ````
 
 <details>
