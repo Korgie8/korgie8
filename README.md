@@ -29,7 +29,7 @@ public class Person
 
     public void ExecuteIntroduction()
     {
-        Console.WriteLine("I gladly welcome thee to my humble abode, and hope thou wilt enjoy thy stay.");
+        Console.WriteLine("I bid thee welcome to my humble abode, and hope thou wilt enjoy thy stay.");
     }
 }
 
