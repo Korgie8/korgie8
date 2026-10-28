@@ -29,7 +29,8 @@ public class Person
 
     public void ExecuteGreeting()
     {
-        Console.WriteLine("I rejoice to welcome thee to my humble abode, and hope thou wilt enjoy thy stay.");
+        Console.WriteLine("I rejoice to welcome thee to my humble abode, 
+                           and hope thou wilt enjoy thy stay.");
     }
 }
 
